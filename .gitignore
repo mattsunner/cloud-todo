@@ -1,0 +1,12 @@
+# Development
+
+.env
+*.db
+*.sqlite3
+*.sqlite
+*.swp
+
+venv/
+
+.DS_Store
+__pycache__/
